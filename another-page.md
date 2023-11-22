@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Dokumentacja
+Aktualna dokumentacja skryptowa **01retadi**.
 
-_yay_
+> Ostatnia aktualizacja Listopad 22, 2023
 
-[back](./)
+[Powróć](./)

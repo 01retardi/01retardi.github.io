@@ -6,6 +6,6 @@ Witaj! Tutaj możesz zobaczyć szczegółową dokumentacje skryptów należącyc
 
 > Ostatnia aktualizacja Listopad 22, 2023
 
-[Link do pełnej dokumentacji](./another-page.html)
+[Link do pełnej dokumentacji](./pages/another-page.md)
 
 [Discord](https://discord.gg/carism)

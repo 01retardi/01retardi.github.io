@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+# Wstęp
+Witaj ! Tutaj możesz zobaczyć szczegółową dokumentacje skryptów należących do **01retadi**. Nie zapomnij dołączyć do discorda.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

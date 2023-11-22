@@ -6,8 +6,9 @@ Witaj! Tutaj możesz zobaczyć szczegółową dokumentacje skryptów należącyc
 
 > Ostatnia aktualizacja Listopad 22, 2023
 
-[Link do pełnej dokumentacji](./another-page.html).
-[Discord](https://discord.gg/carism).
+[Link do pełnej dokumentacji](./another-page.html)
+
+[Discord](https://discord.gg/carism)
 
 
 <!--> # Header 1
